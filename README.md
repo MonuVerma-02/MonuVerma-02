@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MonuVerma-02
-- 🔭 I’m currently working on Capgeimini-Senior Consultant
+- 🔭 I’m currently working on Capgemini-Senior Consultant
 - 👀 I’m interested in Android, Kotlin, iOS
 - 🌱 I’m currently learning Android, Kotlin, iOS
 - 💞️ I’m looking to collaborate on Youtube
